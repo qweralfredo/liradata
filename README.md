@@ -1,2 +1,2 @@
-# liradata
+# Lira Data
 Public Repository Portfolio
